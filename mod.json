@@ -6,11 +6,11 @@
 		"mac": "2.2081",
 		"ios": "2.2081"
 	},
-	"id": "$MOD_ID",
-	"name": "$MOD_NAME",
-	"version": "$MOD_VERSION",
-	"developer": "$MOD_DEVELOPER",
-	"description": "$MOD_DESCRIPTION",
+	"id": "$insulter.v0",
+	"name": "$insulter testing",
+	"version": "$v0.0",
+	"developer": "$purplx",
+	"description": "$early testing of geode insulter a joke mod by purplx currently v0.0",
 	"dependencies": {
 		"geode.node-ids": ">=v1.20.0"
 	}
